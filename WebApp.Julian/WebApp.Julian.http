@@ -1,0 +1,6 @@
+@WebApp.Julian_HostAddress = http://localhost:5136
+
+GET {{WebApp.Julian_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
